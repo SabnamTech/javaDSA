@@ -5,6 +5,7 @@ public class pattern8{
         int n = sc.nextInt();
         int space = n-1;
         int star = 1;
+        
         int row = 1;
         while (row <= n){
             int i = 1;

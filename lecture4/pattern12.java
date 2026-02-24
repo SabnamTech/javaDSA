@@ -10,6 +10,7 @@ class pattern12 {
             int i=1;
             while(i<=star){
                 System.out.print("* ");
+                
                 i++;
             }
         int j=1;

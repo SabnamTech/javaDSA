@@ -12,6 +12,7 @@ public class pattern10{
             System.out.print("  ");
             i++;
         }
+    
         int j = 1;
         while(j<=star){
             if(j%2 == 1){
